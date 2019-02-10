@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "113447213864",
+    "firebase_url": "https://placesdemo-8f216.firebaseio.com",
+    "project_id": "placesdemo-8f216",
+    "storage_bucket": "placesdemo-8f216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113447213864:android:cad8fdfb057acd9c",
+        "android_client_info": {
+          "package_name": "com.example.nvlnms.placesdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113447213864-jqap0jgdjfovbtvg3ft9lghniooon9mh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPJFx6FelEcTcaGXnUle9aodvzW1fxXOc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
